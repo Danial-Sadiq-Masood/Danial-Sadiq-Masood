@@ -4,7 +4,7 @@
 
 › More experience in frontend systems than I originally opted for.
 
-› Fan of nominal static typing. I have a love/hate relationship with JavaScript. Have designed systems that were eventually inconsistent.
+› Fan of nominal static typing. I have a love/hate relationship with JavaScript (love to hate it). Have designed systems that were eventually inconsistent.
 
 › Hope to write verifiable code that isn't just reversing a list
 
